@@ -1,0 +1,32 @@
+// Utlizando o operador igual para uma atruição de valor de uma string para uma varável
+// = Operador de atribuição
+// Comando var declara variáveis no javascript
+// Comando let declara variáveis definindo o escopo de atuação
+// Comando const declara constante, uma vez definido o valor nela nunca pode mudar
+
+
+// As variáveis podem guardar varios tipos de dados diferentes
+// Comando number números interos e decimais no Javascript 
+
+// arrays Varáveis com mesmo nome e tipo armazenando mais de um valor.(séries de variável em uma mesma variável).
+// typeOf tipo de dado de variável
+
+//No JavaScript as variáveis são fracamente tipdas
+//Funções de Conversão parseInt, paseFloat
+
+Operadores de comparação
+// == compara o valor de duas expressões
+// === compara o valor e o tipo de dados
+// !== compara se o valor e tipo são diferentes
+// != compara se os valores são diferentes
+
+// if condição de instrução
+// uma condição do if que for verdadeira anula todas as de mais condições if ou else
+
+// switch estrutur de controle com opções pré-definidas
+// case condição (então) instruções; breack;
+// utiliza-se sempre o breack para interromper um bloco
+
+// for (valor inicial; valor final; valor incrementado)
+// continue similar ao brack, porem ignora e vai par o proximo
+// template string permite que pule linha em uma string
