@@ -29,4 +29,18 @@ Operadores de comparação
 
 // for (valor inicial; valor final; valor incrementado)
 // continue similar ao brack, porem ignora e vai par o proximo
+// callback é uma funçaõ de retorno como parametro após uma ação
 // template string permite que pule linha em uma string
+
+//funcoes são trechos de códigos que podem ser reutilizados (executa alguma coisa e retorna um valor), é ulizada para realizar calculos, conversão e validação
+//classes agrupa atributos e metodos no mesmo lugar
+//return ecerra a função e retorna a um valor
+//argumentos ou Args permitem acessar parâmetros de uma função
+
+//Javascript é uma linguagem reativa. Ela depende do comportamento do usuario para interagir com o código.
+
+//argumentos ou parâmetros são informações que as funções precisam
+// argumentos ou arg permitem acessar parametros de uma função
+//Arrow Function é um novo recurso para função
+//DOM (document object model) a estrutura como o html é formado
+//Eventos são ações realizadas na aplicação que dispara rotinas
