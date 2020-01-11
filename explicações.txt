@@ -44,3 +44,7 @@ Operadores de comparação
 //Arrow Function é um novo recurso para função
 //DOM (document object model) a estrutura como o html é formado
 //Eventos são ações realizadas na aplicação que dispara rotinas
+//window manipula a aplicação
+//TimeStamp é a quantidade de segundos desde 01/01/1970
+//Array são variáveis indexadas. A posição do array começa sempre com zero
+//forEach laço de percorrer array, recebe uma função anônima

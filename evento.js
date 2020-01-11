@@ -1,5 +1,7 @@
-window.addEventListener('focus', event => {
+let carros = ["palio 98", "toro", "uno"];
 
-    console.log("focus");
+carros.forEach(function(value, index){
+
+    console.log(index, value);
 
 });
