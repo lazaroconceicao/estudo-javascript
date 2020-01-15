@@ -1,50 +1,52 @@
-// Utlizando o operador igual para uma atruição de valor de uma string para uma varável
-// = Operador de atribuição
-// Comando var declara variáveis no javascript
-// Comando let declara variáveis definindo o escopo de atuação
+// Utlizando o operador igual para uma atruiï¿½ï¿½o de valor de uma string para uma varï¿½vel
+// = Operador de atribuiï¿½ï¿½o
+// Comando var declara variï¿½veis no javascript
+// Comando let declara variï¿½veis definindo o escopo de atuaï¿½ï¿½o
 // Comando const declara constante, uma vez definido o valor nela nunca pode mudar
 
 
-// As variáveis podem guardar varios tipos de dados diferentes
-// Comando number números interos e decimais no Javascript 
+// As variï¿½veis podem guardar varios tipos de dados diferentes
+// Comando number nï¿½meros interos e decimais no Javascript 
 
-// arrays Varáveis com mesmo nome e tipo armazenando mais de um valor.(séries de variável em uma mesma variável).
-// typeOf tipo de dado de variável
+// arrays Varï¿½veis com mesmo nome e tipo armazenando mais de um valor.(sï¿½ries de variï¿½vel em uma mesma variï¿½vel).
+// typeOf tipo de dado de variï¿½vel
 
-//No JavaScript as variáveis são fracamente tipdas
-//Funções de Conversão parseInt, paseFloat
+//No JavaScript as variï¿½veis sï¿½o fracamente tipdas
+//Funï¿½ï¿½es de Conversï¿½o parseInt, paseFloat
 
-Operadores de comparação
-// == compara o valor de duas expressões
+Operadores de comparaï¿½ï¿½o
+// == compara o valor de duas expressï¿½es
 // === compara o valor e o tipo de dados
-// !== compara se o valor e tipo são diferentes
-// != compara se os valores são diferentes
+// !== compara se o valor e tipo sï¿½o diferentes
+// != compara se os valores sï¿½o diferentes
 
-// if condição de instrução
-// uma condição do if que for verdadeira anula todas as de mais condições if ou else
+// if condiï¿½ï¿½o de instruï¿½ï¿½o
+// uma condiï¿½ï¿½o do if que for verdadeira anula todas as de mais condiï¿½ï¿½es if ou else
 
-// switch estrutur de controle com opções pré-definidas
-// case condição (então) instruções; breack;
+// switch estrutur de controle com opï¿½ï¿½es prï¿½-definidas
+// case condiï¿½ï¿½o (entï¿½o) instruï¿½ï¿½es; breack;
 // utiliza-se sempre o breack para interromper um bloco
 
 // for (valor inicial; valor final; valor incrementado)
 // continue similar ao brack, porem ignora e vai par o proximo
-// callback é uma funçaõ de retorno como parametro após uma ação
+// callback ï¿½ uma funï¿½aï¿½ de retorno como parametro apï¿½s uma aï¿½ï¿½o
 // template string permite que pule linha em uma string
 
-//funcoes são trechos de códigos que podem ser reutilizados (executa alguma coisa e retorna um valor), é ulizada para realizar calculos, conversão e validação
+//funcoes sï¿½o trechos de cï¿½digos que podem ser reutilizados (executa alguma coisa e retorna um valor), ï¿½ ulizada para realizar calculos, conversï¿½o e validaï¿½ï¿½o
 //classes agrupa atributos e metodos no mesmo lugar
-//return ecerra a função e retorna a um valor
-//argumentos ou Args permitem acessar parâmetros de uma função
+//return ecerra a funï¿½ï¿½o e retorna a um valor
+//argumentos ou Args permitem acessar parï¿½metros de uma funï¿½ï¿½o
 
-//Javascript é uma linguagem reativa. Ela depende do comportamento do usuario para interagir com o código.
+//Javascript ï¿½ uma linguagem reativa. Ela depende do comportamento do usuario para interagir com o cï¿½digo.
 
-//argumentos ou parâmetros são informações que as funções precisam
-// argumentos ou arg permitem acessar parametros de uma função
-//Arrow Function é um novo recurso para função
-//DOM (document object model) a estrutura como o html é formado
-//Eventos são ações realizadas na aplicação que dispara rotinas
-//window manipula a aplicação
-//TimeStamp é a quantidade de segundos desde 01/01/1970
-//Array são variáveis indexadas. A posição do array começa sempre com zero
-//forEach laço de percorrer array, recebe uma função anônima
+//argumentos ou parï¿½metros sï¿½o informaï¿½ï¿½es que as funï¿½ï¿½es precisam
+// argumentos ou arg permitem acessar parametros de uma funï¿½ï¿½o
+//Arrow Function ï¿½ um novo recurso para funï¿½ï¿½o
+//Callback funï¿½ï¿½ de retorno como parametro apï¿½is uma aï¿½ï¿½o
+//DOM (document object model) a estrutura como o html ï¿½ formado
+//Eventos sï¿½o aï¿½ï¿½es realizadas na aplicaï¿½ï¿½o que dispara rotinas
+//window manipula a aplicaï¿½ï¿½o
+//TimeStamp ï¿½ a quantidade de segundos desde 01/01/1970 atï¿½ hoje
+//Array sÃ£o variÃ¡veis indexadas. A posiÃ§Ã£o do array comeï¿½a sempre com zero
+//forEach laÃ§o de percorrer array, recebe uma funÃ§Ã£o anÃ´nima
+//Classe conjunto de atributos e mÃ©todos
