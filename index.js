@@ -1,15 +1,15 @@
-let cor = "azul";
+let celular = function(){
 
-if(cor === "verde") {
+    this.cor = "prata";
 
-    console.log("siga");
+    this.ligar = function(){
 
-} else if (cor === "amarelo") {
+        console.log("uma ligação");
+        return 'ligando';
 
-    console.log("atenção");
-
-} else if (cor === "vermelho") {
-
-    console.log("pare");
-    
+    }
 }
+
+let objeto = new celular();
+
+console.log(objeto.ligar());

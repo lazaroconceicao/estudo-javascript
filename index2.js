@@ -1,19 +1,19 @@
-let cor = "azul";
+class celular {
 
-switch (cor) {
+    constructor(){
 
-    case "verde":
-        console.log("siga");
-        break;
+        this.cor = "prata";
 
-    case "amarelo":
-        console.log("atenção");
-        break;
+    }
 
-    case "vermelho":
-        console.log("pare");
-        break;
+    ligar(){
 
-    default:
-        console.log("não sei");
+        console.log("uma ligação");
+        return 'ligando';
+    }
+
 }
+
+let objeto = new celular();
+
+console.log(objeto.ligar());

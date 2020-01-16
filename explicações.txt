@@ -1,52 +1,55 @@
-// Utlizando o operador igual para uma atrui��o de valor de uma string para uma var�vel
-// = Operador de atribui��o
-// Comando var declara vari�veis no javascript
-// Comando let declara vari�veis definindo o escopo de atua��o
+// Utlizando o operador igual para uma atruição de valor de uma string para uma varável
+// = Operador de atribuição
+// Comando var declara variáveis no javascript
+// Comando let declara variáveis definindo o escopo de atuação
 // Comando const declara constante, uma vez definido o valor nela nunca pode mudar
 
 
-// As vari�veis podem guardar varios tipos de dados diferentes
-// Comando number n�meros interos e decimais no Javascript 
+// As variáveis podem guardar varios tipos de dados diferentes
+// Comando number námeros interos e decimais no Javascript 
 
-// arrays Var�veis com mesmo nome e tipo armazenando mais de um valor.(s�ries de vari�vel em uma mesma vari�vel).
-// typeOf tipo de dado de vari�vel
+// arrays Varáveis com mesmo nome e tipo armazenando mais de um valor.(sáries de variável em uma mesma variável).
+// typeOf tipo de dado de variável
 
-//No JavaScript as vari�veis s�o fracamente tipdas
-//Fun��es de Convers�o parseInt, paseFloat
+//No JavaScript as variáveis são fracamente tipdas
+//Funções de Conversão parseInt, paseFloat
 
-Operadores de compara��o
-// == compara o valor de duas express�es
+Operadores de comparação
+// == compara o valor de duas expressões
 // === compara o valor e o tipo de dados
-// !== compara se o valor e tipo s�o diferentes
-// != compara se os valores s�o diferentes
+// !== compara se o valor e tipo são diferentes
+// != compara se os valores são diferentes
 
-// if condi��o de instru��o
-// uma condi��o do if que for verdadeira anula todas as de mais condi��es if ou else
+// if condição de instrução
+// uma condição do if que for verdadeira anula todas as de mais condiçoes if ou else
 
-// switch estrutur de controle com op��es pr�-definidas
-// case condi��o (ent�o) instru��es; breack;
+// switch estrutur de controle com opções pré-definidas
+// case condição (então) instruções; breack;
 // utiliza-se sempre o breack para interromper um bloco
 
 // for (valor inicial; valor final; valor incrementado)
 // continue similar ao brack, porem ignora e vai par o proximo
-// callback � uma fun�a� de retorno como parametro ap�s uma a��o
+// callback é uma funçao de retorno como parametro após uma ação
 // template string permite que pule linha em uma string
 
-//funcoes s�o trechos de c�digos que podem ser reutilizados (executa alguma coisa e retorna um valor), � ulizada para realizar calculos, convers�o e valida��o
+//funcoes são trechos de códigos que podem ser reutilizados (executa alguma coisa e retorna um valor), é ulizada para realizar calculos, conversão e validação
 //classes agrupa atributos e metodos no mesmo lugar
-//return ecerra a fun��o e retorna a um valor
-//argumentos ou Args permitem acessar par�metros de uma fun��o
+//return ecerra a função e retorna a um valor
+//argumentos ou Args permitem acessar parâmetros de uma função
 
-//Javascript � uma linguagem reativa. Ela depende do comportamento do usuario para interagir com o c�digo.
+//Javascript é uma linguagem reativa. Ela depende do comportamento do usuario para interagir com o código.
 
-//argumentos ou par�metros s�o informa��es que as fun��es precisam
-// argumentos ou arg permitem acessar parametros de uma fun��o
-//Arrow Function � um novo recurso para fun��o
-//Callback fun�� de retorno como parametro ap�is uma a��o
-//DOM (document object model) a estrutura como o html � formado
-//Eventos s�o a��es realizadas na aplica��o que dispara rotinas
-//window manipula a aplica��o
-//TimeStamp � a quantidade de segundos desde 01/01/1970 at� hoje
-//Array são variáveis indexadas. A posição do array come�a sempre com zero
+//argumentos ou parâmetros são informações que as funções precisam
+// argumentos ou arg permitem acessar parametros de uma função
+//Arrow Function é um novo recurso para função
+//Callback função de retorno como parametro após uma ação
+//DOM (document object model) a estrutura como o html é formado
+//Eventos são ações realizadas na aplicação que dispara rotinas
+//window manipula a aplicação
+//TimeStamp é a quantidade de segundos desde 01/01/1970 até hoje
+//Array são variáveis indexadas. A posição do array começa sempre com zero
 //forEach laço de percorrer array, recebe uma função anônima
-//Classe conjunto de atributos e métodos
+//Orientação a Objetos é um jeito de programar que o código é reutilizado, deixando ele limpo, organizado e funcional
+//Classe conjunto de atributos e métodos(conjunto de variáveis e funções). A classe emgloba todos os assuntos em comum
+//this é um comando interno usado para referenciar
+//instancia é quando o objeto representa uma classe
